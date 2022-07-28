@@ -1,4 +1,12 @@
-# Getting Started with Create React App
+# Applictaion name
+
+Bombshell Beauty
+
+# Author
+
+Omar Mahat Abdullahi
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -68,3 +76,22 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+# Technologies Used
+
+1. HTML - which was used to develope the structure of the web application.
+2. CSS - which was used to style the User Interface to make it attractive.
+3. Reactjs - used to make the other funtionalities of the web
+
+# Contact Info:
+
+omar.mahat@student.moringaschool.com
+
+# Veiw Live
+
+https://bombshell-beauty.herokuapp.com/
+
+# License
+
+This is under [MIT](https://choosealicense.com/licenses/mit/) License
